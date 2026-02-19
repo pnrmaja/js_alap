@@ -1,0 +1,35 @@
+#szamok{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+.kor{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    background-color: pink;
+
+}
+table{
+    border-collapse: collapse;
+    width: 400px;
+    margin-top: 20px;
+}
+th{
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+    background-color:palevioletred; 
+}
+td{
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+    background-color:pink;
+}
